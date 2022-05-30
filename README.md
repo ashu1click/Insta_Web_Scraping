@@ -30,4 +30,4 @@ python3 insta_web_scrape.py
 
 ## Insta Data Profiling
 
-Have a look at "keto.csv" for the data extracted from isntagram for "keto" diet.
+Have a look at "keto.csv" for the data extracted from instagram for "keto" diet.
