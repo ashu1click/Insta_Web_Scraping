@@ -1,0 +1,69 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.9"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Keto Diet in H\u1ee3p Ch\u1ee7ng Qu\u1ed1c Hoa K\u1ef3. May be an image of food.",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 906,
+            "width": 750
+        },
+        "display_url": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT--yDBHXNJWmGYDO_1I64H2HmTzpzTpWGfDyczaLXme5A&oe=629AE252&_nc_sid=d997c6",
+        "edge_liked_by": {
+            "count": 8
+        },
+        "edge_media_preview_like": {
+            "count": 8
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83d\udc81 Did you know? \ud83d\udca1 If you want to lose several lbs in the first week alone with #ketolifestyle. You can click the link in our bio to get Everything You Need for #keto Success. Just imagine\u2026 28 days from now, you will have successfully completed the Keto Challenge. ( @ig_keto_diet)\n.\nIngredients\n4 Tbsp unsalted butter, divided\n2 Tbsp olive oil, divided\n16 oz baby bella mushrooms, thickly sliced\n1 small onion, finely diced\n4 garlic cloves, minced\n1 Tbsp fresh thyme, minced (or 1 tsp dry thyme)\n24 oz filet mignon (beef tenderloin) steaks , 6-8 oz each, about 1 1/2\" thick\n1/2 cup Merlot wine, or any dry red wine\n1 1/2 cups beef broth\n1/2 cup whipping cream\n1 1/4 tsp sea salt, we use sea salt, divided\n1/2 tsp black pepper, divided\n\nInstructions\nHow to Cook Filet Mignon Recipe:\nPlace a large heavy-bottomed pan over med/high heat and melt in 2 Tbsp butter and 1 Tbsp oil. Add sliced mushrooms and cook 6 min or until softened and most of the liquid has evaporated. Add diced onion and cook 3 min, stirring often.\nAdd minced garlic, 1 Tbsp thyme, 1/4 tsp salt and 1/8 tsp black pepper. Cook, stirring constantly, 2 min or until garlic is fragrant. Transfer mushrooms to a large plate. Wipe pan clean with a wet paper towel.\n\nSeason steaks all over with 1 tsp salt and 1/4 tsp black pepper. Place the same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When the butter is hot and finished foaming, add seasoned steaks and sear 3-5 min per side for medium-rare (5-6 min for medium doneness*), turning once. When steaks reach desired doneness, transfer them to the plate with mushrooms."
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "2849268412514840865",
+        "is_video": false,
+        "owner": {
+            "id": "42071863915"
+        },
+        "shortcode": "CeKooZtsDEh",
+        "taken_at_timestamp": 1653879284,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=c0.75.720.720a_dst-webp_e15_s150x150&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT-8DASDqm3uQef-KPXyugf0sxbakp3F9DMTRcqxcg2NUg&oe=629AE252&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=c0.75.720.720a_dst-webp_e15_s240x240&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT9uKfhOgNxrxKlcN_lJexv0gbloJ0qwuH8FEapu8UIewA&oe=629AE252&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=c0.75.720.720a_dst-webp_e15_s320x320&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT-n1jXFHHmdRUUF1JGYDwqnKnsJhdkFhy2xRpFHHQkQGA&oe=629AE252&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=c0.75.720.720a_dst-webp_e15_s480x480&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT_-hVBDByGbVm6WgQDuDiUtigOf5iKVS5JblUY3FI6dCQ&oe=629AE252&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=c0.75.720.720a_dst-webp_e15_s640x640&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT-VJzrVGTEPAXxuw723vl4tOS9EdAeNIYYETIrquR7hoQ&oe=629AE252&_nc_sid=d997c6"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fblr4-1.fna.fbcdn.net/v/t51.2885-15/284986869_556360026054885_3477339078553927508_n.jpg?stp=c0.75.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fblr4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=8lW2bXTakUsAX84I7JQ&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT8C2H-gY_v8Zr7BJaPJ-IEICAgHDz9or4gbBXfdmpVl2w&oe=629AE252&_nc_sid=d997c6"
+    }
+}

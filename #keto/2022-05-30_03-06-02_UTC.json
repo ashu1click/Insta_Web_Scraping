@@ -1,0 +1,69 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.9"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Dina Regine on May 29, 2022. May be an image of food and indoor.",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 824,
+            "width": 1080
+        },
+        "display_url": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT_05gQ8HixqGRO_U_UzPg6nZGtM-y46XQbXwGNU4nKG_A&oe=629B3113&_nc_sid=d997c6",
+        "edge_liked_by": {
+            "count": 6
+        },
+        "edge_media_preview_like": {
+            "count": 6
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "After traveling almost 6 hours to and from Jersey to see mom today (for just a couple of hours), and only one Atkins lemon bar in my belly... I was ready to eat my door knob when I got home. But, I managed to feast tonight, and STILL be Keto!!! I put on my new addiction, Stanley Tucci's Searching for Italy (how does he stay so skinny!!!), cooked up some FiberGourmet low carb high fiber pasta, and saut\u00e9ed Branzino (thank you  Trader Joe's) in garlic, olive oil, butter, wine and lemon. OMG, this experiment went really well. Served here with a bit of red pepper flakes over everything for a little kick. But... here's the big kick. This whole dinner is under 300 calories and 15net carbs.  Ta dah!!!! \nps: for the snobs.. Yes I drink red wine with EVERYTHING, including fish. I pretty much only like white wine in cooking, as I did here \ud83d\ude06\n\nPss:  my late best buddy Don turned me on to the delight of cloth napkins at home. Not only will you save a ton on napkins and paper towels, you're helping save the planet. Plus... ya kinda feel a bit special when you treat yourself as a nice restaurant would treat you! As #JuliaChilds would say, \"Bon app\u00e9tit.\" @stanleytucci @fibergourmet @traderjoes #keto #ketodiet \ud83c\udf39"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "2849274095536712897",
+        "is_video": false,
+        "owner": {
+            "id": "496904873"
+        },
+        "shortcode": "CeKp7GcMCzB",
+        "taken_at_timestamp": 1653879962,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=c170.0.1099.1099a_dst-webp_e35_s150x150&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT_zo8w77I17N-bVpJqmZLE_ZShNjkytZkEANm72NaCx0A&oe=629B3113&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=c170.0.1099.1099a_dst-webp_e35_s240x240&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT9acE6bUDQHYh1-TYPnQiZ9gwxbqdVxddGwsCVwLhY0yQ&oe=629B3113&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=c170.0.1099.1099a_dst-webp_e35_s320x320&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT8v2MGURWidXbYYtfYeN7hT4P4cYJGsJFaDtOfH7hVV2Q&oe=629B3113&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=c170.0.1099.1099a_dst-webp_e35_s480x480&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT-sAD-ugIaI5B5n4kCylwiHY-c-TAO833tYAyGXQerRDA&oe=629B3113&_nc_sid=d997c6"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=c170.0.1099.1099a_dst-webp_e35_s640x640_sh0.08&cb=9ad74b5e-be52112b&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT__u8aYjB-YvxwgOctU4z5Zvq0RCdzv_3uRr67Wp0IycQ&oe=629B3113&_nc_sid=d997c6"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fblr4-3.fna.fbcdn.net/v/t51.2885-15/284762317_1152350465313383_1891616866398076823_n.jpg?stp=c170.0.1099.1099a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fblr4-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=PkuSDZPHkuAAX-pThAp&edm=AA0rjkIBAAAA&ccb=7-5&oh=00_AT--ZV8ojKmnHIHEEMvsDA-uIcTVhy66G4-Gmb20gTriJw&oe=629B3113&_nc_sid=d997c6"
+    }
+}
