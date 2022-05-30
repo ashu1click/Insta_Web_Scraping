@@ -26,7 +26,7 @@ python3 insta_web_scrape.py
 
 ## Screenshots
 
-![Web Scrape](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Web Scrape](https://github.com/[ashu1click]/[Insta_Web_Scraping]/blob/[master]/keto_scrape.jpeg?raw=true)
 
 ## Insta Data Profiling
 
